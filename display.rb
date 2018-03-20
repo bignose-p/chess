@@ -2,6 +2,8 @@ require 'colorize'
 require_relative 'cursor'
 require_relative 'board'
 
+#WHEN COMPlETE, REMOVE BOARD REQUIREMENT AND DO IT METHOD 
+
 class Display
 
   attr_reader :board, :cursor
